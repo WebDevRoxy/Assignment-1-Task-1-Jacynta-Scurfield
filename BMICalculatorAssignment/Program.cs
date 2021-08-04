@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BMICaculator
+namespace BMICalculator
 {
     class Program
     {
